@@ -48,9 +48,19 @@ namespace PBLLibrary
             return Connector.GetWord_ByFilter_Random(filter, limit, distinct);
         }
 
+        
+
         public static string ConnectionString(string name)
         {
             return ConfigurationManager.ConnectionStrings[name].ConnectionString;
         }
+
+
+        public static string Vi_GetDescription_ByWord(string word)
+        {
+            return PBLLibrary.DataAccess.DbSysAccess.SearchByWord(word);
+        }
+
+
     }
 }
