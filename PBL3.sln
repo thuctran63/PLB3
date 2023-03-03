@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBL3", "PBL3\PBL3.csproj", "{D23F5B49-6262-439A-90FA-0CE67E944854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBLLibrary", "PBLLibrary\PBLLibrary.csproj", "{24530946-4023-4A8D-97D3-42235E6D1F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "CustomControls\CustomControls.csproj", "{6C7A04A5-31D4-4159-9F31-FA2D8EC11E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23F5B49-6262-439A-90FA-0CE67E944854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23F5B49-6262-439A-90FA-0CE67E944854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23F5B49-6262-439A-90FA-0CE67E944854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23F5B49-6262-439A-90FA-0CE67E944854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24530946-4023-4A8D-97D3-42235E6D1F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24530946-4023-4A8D-97D3-42235E6D1F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24530946-4023-4A8D-97D3-42235E6D1F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24530946-4023-4A8D-97D3-42235E6D1F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C7A04A5-31D4-4159-9F31-FA2D8EC11E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7A04A5-31D4-4159-9F31-FA2D8EC11E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7A04A5-31D4-4159-9F31-FA2D8EC11E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7A04A5-31D4-4159-9F31-FA2D8EC11E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A81D078-7979-4E7B-A036-E391F843970D}
+	EndGlobalSection
+EndGlobal
